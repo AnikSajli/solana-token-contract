@@ -1,0 +1,1 @@
+/home/anik/Desktop/Vivasoft/Blockchain/solana-token-contract/target/bpfel-unknown-unknown/release/libsolana_token_contract.rlib: /home/anik/Desktop/Vivasoft/Blockchain/solana-token-contract/programs/solana-token-contract/src/lib.rs
